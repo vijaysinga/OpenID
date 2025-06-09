@@ -35,9 +35,9 @@
                         <archive>
                           <manifest>
                                <addClassPath>true</addClassPath>
-                              <mainClass>com.example.Main</mainClass>
+                               <mainClass>com.example.Main</mainClass>
                           </manifest>
-                        <archive>
+                        </archive>
                     </configuration>
                 </plugin>
             </plugins>
